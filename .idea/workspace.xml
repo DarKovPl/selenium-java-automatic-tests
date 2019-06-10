@@ -2,9 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee200da6-1e2b-4b28-bbec-a8a19e23e528" name="Default Changelist" comment="Update:&#10;Changed many Quit instructions to one method.">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sda/Pages/MyAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sda/Pages/RandomEmailAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/AuthenticationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/AuthenticationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/CreateAnAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/CreateAnAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/InformationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/InformationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/PopUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/PopUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/ShoppingBasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/ShoppingBasketPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/WomenPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Pages/WomenPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Tests/MainToolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Tests/MainToolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Tools/PageObjectManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Tools/PageObjectManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Tools/WaitTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_WebDriver_JavaTests/src/test/java/com/sda/Tools/WaitTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/AuthenticationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/AuthenticationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/CreateAnAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/CreateAnAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/InformationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/InformationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/PopUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/PopUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/RandomEmailAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/RandomEmailAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/ShoppingBasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/ShoppingBasketPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Pages/WomenPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/pages/WomenPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Tests/MainToolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/tests/MainToolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/tools/PageObjectManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/tools/PageObjectManager1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sda/Tools/WaitTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sda/tools/WaitTools.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,10 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tests/MainToolTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tests/MainToolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="274" column="22" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+            <state relative-caret-position="-238">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,10 +52,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/CreateAnAccountPage.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="144" column="1" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/CreateAnAccountPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1411">
+              <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1897#1898#0" expanded="true" />
@@ -65,10 +97,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/MainPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+            <state relative-caret-position="986">
+              <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1747#1748#0" expanded="true" />
@@ -91,9 +123,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/MyAccountPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/MyAccountPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="153">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,9 +135,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/RandomEmailAddress.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/RandomEmailAddress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="204">
               <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -119,9 +151,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tools/PageObjectManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
+            <state relative-caret-position="1224">
               <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,9 +165,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager1.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tools/PageObjectManager1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="255">
               <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -178,7 +210,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Pages/WomenPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Pages/LogInPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Pages/CreateNewAccountPage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Pages/InformationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Pages/CreateAnAccountPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager1.java" />
@@ -189,6 +220,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Pages/MyAccountPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sda/Tests/MainToolTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sda/tests/MainToolTest.java" />
       </list>
     </option>
   </component>
@@ -204,18 +237,28 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Selenium_WebDriver_JavaTests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="ProjektSklepInternetowy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Selenium_WebDriver_JavaTests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="ProjektSklepInternetowy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ProjektSklepInternetowy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ProjektSklepInternetowy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -226,70 +269,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sda" type="462c0819:PsiDirectoryNode" />
-              <item name="Tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
           <expand>
@@ -387,15 +366,86 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_WebDriver_JavaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_WebDriver_JavaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559883386789" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560185245836" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.validation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -420,12 +470,12 @@
       <module name="Selenium_WebDriver_JavaTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.Tests.*" />
+          <option name="PATTERN" value="com.sda.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sda.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.sda.Tests.MainToolTest" />
+      <option name="PACKAGE_NAME" value="com.sda.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sda.tests.MainToolTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
@@ -438,12 +488,12 @@
       <module name="Selenium_WebDriver_JavaTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.Tests.*" />
+          <option name="PATTERN" value="com.sda.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sda.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.sda.Tests.MainToolTest" />
+      <option name="PACKAGE_NAME" value="com.sda.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sda.tests.MainToolTest" />
       <option name="METHOD_NAME" value="mainPageLinkTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -454,12 +504,12 @@
       <module name="Selenium_WebDriver_JavaTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.Tests.*" />
+          <option name="PATTERN" value="com.sda.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sda.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.sda.Tests.MainToolTest" />
+      <option name="PACKAGE_NAME" value="com.sda.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sda.tests.MainToolTest" />
       <option name="METHOD_NAME" value="signUpTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -470,12 +520,12 @@
       <module name="Selenium_WebDriver_JavaTests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sda.Tests.*" />
+          <option name="PATTERN" value="com.sda.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sda.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.sda.Tests.MainToolTest" />
+      <option name="PACKAGE_NAME" value="com.sda.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sda.tests.MainToolTest" />
       <option name="METHOD_NAME" value="veryficationEngineAddToNewsletterTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -551,9 +601,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -612,7 +662,6 @@
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="SHOW_OTHER_BRANCHES" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -669,7 +718,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tools/RobotTools.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/PopUpPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/PopUpPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -687,7 +736,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/SearchResultPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/SearchResultPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
@@ -699,7 +748,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/ShoppingBasketPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/ShoppingBasketPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -715,7 +764,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/WomenPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/WomenPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="94" selection-start-line="94" selection-end-line="94" />
@@ -778,14 +827,7 @@
     <entry file="file://$PROJECT_DIR$/ProjektSklepInternetowy.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/InformationPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/InformationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
@@ -813,7 +855,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/AuthenticationPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/AuthenticationPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
@@ -829,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tools/WaitTools.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tools/WaitTools.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
@@ -839,20 +881,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tests/MainToolTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tests/MainToolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="274" column="22" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+        <state relative-caret-position="-238">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/CreateAnAccountPage.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="144" column="1" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/CreateAnAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1897#1898#0" expanded="true" />
@@ -883,10 +932,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        <state relative-caret-position="986">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1747#1748#0" expanded="true" />
@@ -907,9 +956,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/MyAccountPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/MyAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="153">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -917,9 +966,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Pages/RandomEmailAddress.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/pages/RandomEmailAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="204">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -931,9 +980,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tools/PageObjectManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
+        <state relative-caret-position="1224">
           <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -943,9 +992,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/Tools/PageObjectManager1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sda/tools/PageObjectManager1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="255">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />

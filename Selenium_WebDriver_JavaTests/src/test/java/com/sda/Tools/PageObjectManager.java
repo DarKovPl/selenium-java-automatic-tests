@@ -1,6 +1,6 @@
-package com.sda.Tools;
+package com.sda.tools;
 
-import com.sda.Pages.*;
+import com.sda.pages.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 

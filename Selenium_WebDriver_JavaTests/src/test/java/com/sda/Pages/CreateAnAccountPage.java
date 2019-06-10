@@ -1,6 +1,6 @@
-package com.sda.Pages;
+package com.sda.pages;
 
-import com.sda.Tools.WaitTools;
+import com.sda.tools.WaitTools;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 

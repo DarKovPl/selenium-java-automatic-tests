@@ -1,7 +1,7 @@
-package com.sda.Tests;
-import com.sda.Tools.PageObjectManager;
-import com.sda.Tools.PageObjectManager1;
-import com.sda.Tools.WaitTools;
+package com.sda.tests;
+import com.sda.tools.PageObjectManager;
+import com.sda.tools.PageObjectManager1;
+import com.sda.tools.WaitTools;
 
 
 import org.junit.After;

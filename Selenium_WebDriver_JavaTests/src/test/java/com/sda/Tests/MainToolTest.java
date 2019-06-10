@@ -1,6 +1,6 @@
-package com.sda.Tests;
-import com.sda.Tools.PageObjectManager;
-import com.sda.Tools.WaitTools;
+package com.sda.tests;
+import com.sda.tools.PageObjectManager;
+import com.sda.tools.WaitTools;
 import org.junit.Test;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

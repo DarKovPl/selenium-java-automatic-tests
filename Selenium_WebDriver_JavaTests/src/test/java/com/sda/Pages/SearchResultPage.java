@@ -1,4 +1,4 @@
-package com.sda.Pages;
+package com.sda.pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

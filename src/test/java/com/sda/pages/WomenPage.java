@@ -1,7 +1,5 @@
-package com.sda.Pages;
+package com.sda.pages;
 
-import com.sun.glass.ui.Robot;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 

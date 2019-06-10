@@ -1,4 +1,4 @@
-package com.sda.Tools;
+package com.sda.tools;
 
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;

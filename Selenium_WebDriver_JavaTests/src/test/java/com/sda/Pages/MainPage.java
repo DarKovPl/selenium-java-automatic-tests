@@ -1,4 +1,4 @@
-package com.sda.Pages;
+package com.sda.pages;
 
 import jdk.nashorn.internal.parser.Scanner;
 import org.openqa.selenium.By;

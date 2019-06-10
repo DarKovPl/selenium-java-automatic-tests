@@ -1,7 +1,5 @@
-package com.sda.Pages;
+package com.sda.pages;
 
-import com.sda.Tests.MainToolTest;
-import com.sda.Tools.PageObjectManager;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
