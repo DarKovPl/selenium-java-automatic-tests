@@ -18,23 +18,24 @@ Project was started creating on course Manual Tester in SDA and it is summaries 
 
 ## Code Examples
 Examples of code:
-`@Test
+
+    `@Test
     public void veryficationEngineAddToNewsletterTest(){
-        driver.get("http://automationpractice.com");
-        driver1.get("http://www.yopmail.com/pl/email-generator.php");
-
-        WaitTools.isElementVisible(driver1, manager1.getRandomEmailAddress().randomAddresEmailWebElement());
-        String randomEmail = manager1.getRandomEmailAddress().getRandomAddressEmail();
-
-        JavascriptExecutor js = (JavascriptExecutor)driver;
-        js.executeScript("window.scrollBy(0, 2500)");
-
-        manager.getMainPage().addRandomEmail().sendKeys(randomEmail);
-        manager.getMainPage().clickSubmitNewsletter();
-
-        WaitTools.isElementVisible(driver, manager.getMainPage().checkAlertMessageWebElement());
-        String outputWord = manager.getMainPage().checkAlertMessage();
-        assertTrue(outputWord.contains("Newsletter : You have successfully subscribed to this newsletter."));`
+    driver.get("http://automationpractice.com");
+    driver1.get("http://www.yopmail.com/pl/email-generator.php");
+    
+    WaitTools.isElementVisible(driver1, manager1.getRandomEmailAddress().randomAddresEmailWebElement());
+    String randomEmail = manager1.getRandomEmailAddress().getRandomAddressEmail();
+    
+    JavascriptExecutor js = (JavascriptExecutor)driver;
+    js.executeScript("window.scrollBy(0, 2500)");
+    
+    manager.getMainPage().addRandomEmail().sendKeys(randomEmail);
+    manager.getMainPage().clickSubmitNewsletter();
+    
+    WaitTools.isElementVisible(driver, manager.getMainPage().checkAlertMessageWebElement());
+    String outputWord = manager.getMainPage().checkAlertMessage();
+    assertTrue(outputWord.contains("Newsletter : You have successfully subscribed to this newsletter."));`
 
 ## Features
 List of features ready and TODOs for future development
