@@ -19,7 +19,7 @@ Project was started creating on course Manual Tester in SDA and it is summaries 
 ## Code Examples
 Examples of code:
 
-    ```
+```java
     @Test
     public void veryficationEngineAddToNewsletterTest(){
         driver.get("http://automationpractice.com");
@@ -36,7 +36,8 @@ Examples of code:
     
         WaitTools.isElementVisible(driver, manager.getMainPage().checkAlertMessageWebElement());
         String outputWord = manager.getMainPage().checkAlertMessage();
-        assertTrue(outputWord.contains("Newsletter : You have successfully subscribed to this newsletter."));```
+        assertTrue(outputWord.contains("Newsletter : You have successfully subscribed to this newsletter."));
+```
 
 
 
